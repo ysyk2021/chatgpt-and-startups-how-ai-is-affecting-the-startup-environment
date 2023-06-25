@@ -17,4 +17,4 @@
 17. Scaling up your startup with AI
 18. Disruptive technologies and startup success
 19. AI-driven marketing strategies for startups
-20. Startup culture and technological change.
+20. Startup culture and technological change
