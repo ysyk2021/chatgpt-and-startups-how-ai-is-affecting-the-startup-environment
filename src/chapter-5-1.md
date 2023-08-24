@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is a state-of-the-art natural language processing (NLP) model developed by OpenAI. It is an AI-powered language model that has the ability to understand natural language, generate human-like responses, and learn from large amounts of data.
 

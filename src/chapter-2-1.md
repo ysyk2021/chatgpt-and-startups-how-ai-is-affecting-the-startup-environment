@@ -1,5 +1,3 @@
-Definition of startups
-=====================================================
 
 Startups are a vital part of the business world, driving innovation and growth in a wide range of industries. But what exactly is a startup, and how does it differ from other types of businesses?
 

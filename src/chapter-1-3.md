@@ -1,5 +1,3 @@
-The role of ChatGPT in affecting the startup environment
-======================================================================
 
 Artificial Intelligence (AI) has revolutionized the way we live and work. One of the most exciting applications of AI is chatbots, which have become increasingly popular over the years. Chatbots are computer programs that mimic human conversation, allowing users to interact with them via text or voice.
 
