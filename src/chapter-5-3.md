@@ -1,5 +1,4 @@
-Chapter 3: How ChatGPT Can be Used in Startups
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, artificial intelligence (AI) has been making significant waves in the startup landscape. Among the many AI technologies available, ChatGPT has emerged as a versatile tool that startups can leverage in various ways to gain a competitive edge. In this chapter, we will explore the diverse applications of ChatGPT in startups and how it can be harnessed to drive innovation, improve customer experiences, and streamline operations.
 

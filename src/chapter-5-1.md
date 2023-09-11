@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, short for "Chat Generative Pre-trained Transformer," is a groundbreaking artificial intelligence (AI) model developed by OpenAI. It represents a significant milestone in the field of natural language processing (NLP) and has revolutionized how startups and businesses interact with and leverage AI technology. In this chapter, we will delve into the fundamental aspects of ChatGPT, its architecture, and its role in the startup environment.
 

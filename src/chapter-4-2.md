@@ -1,5 +1,4 @@
-Chapter 1: How AI and Chatbots Can Affect the Startup Environment
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The startup landscape is continually evolving, and the integration of Artificial Intelligence (AI) and chatbots is reshaping how startups operate, compete, and thrive. In this chapter, we will explore the multifaceted impact of AI and chatbots on the startup environment.
 

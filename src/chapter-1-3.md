@@ -1,5 +1,4 @@
-Chapter 3: The Role of ChatGPT in Affecting the Startup Environment
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving world of startups, the integration of artificial intelligence (AI) technologies has emerged as a game-changer. Among these technologies, ChatGPT, with its natural language understanding and generation capabilities, stands out as a powerful tool with a significant impact on the startup environment. In this chapter, we will explore the multifaceted role of ChatGPT in affecting and shaping the startup landscape.
 

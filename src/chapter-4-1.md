@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of Artificial Intelligence (AI) and chatbots, setting the stage for understanding their pivotal role in the startup environment. As AI continues to reshape industries and drive innovation, startups are increasingly turning to chatbots as a powerful tool to enhance customer engagement, streamline operations, and achieve a competitive edge.
 

@@ -1,5 +1,4 @@
-Chapter 6: Case Studies of Startups Successfully Implementing ChatGPT in Their Services
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine real-world examples of startups that have leveraged ChatGPT to enhance their services, streamline operations, and create innovative solutions. These case studies illustrate the versatility and impact of ChatGPT in the startup environment.
 

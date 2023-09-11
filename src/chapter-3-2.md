@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges Faced by Startups
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Startups are the embodiment of innovation, driven by the aspiration to disrupt industries and solve complex problems. However, their journey is far from smooth, and they often encounter a myriad of challenges along the way. In this chapter, we will explore some of the common challenges faced by startups in the context of adopting AI technologies like ChatGPT.
 

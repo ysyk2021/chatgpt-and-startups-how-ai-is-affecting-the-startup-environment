@@ -1,5 +1,4 @@
-Chapter 2: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, developed by OpenAI, is a cutting-edge language model that has gained significant attention for its remarkable capabilities in natural language understanding and generation. In this chapter, we will delve into the features and capabilities that make ChatGPT a game-changer for startups and the broader business landscape.
 

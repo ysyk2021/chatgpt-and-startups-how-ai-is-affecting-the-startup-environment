@@ -1,5 +1,4 @@
-Chapter 2: Factors Affecting the Startup Environment
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The startup environment is dynamic and constantly evolving, shaped by a multitude of factors that can have a profound impact on the success and growth of new ventures. In this chapter, we will delve into the key factors that influence the startup ecosystem, particularly in the context of how AI, including ChatGPT, is affecting this environment.
 

@@ -1,5 +1,4 @@
-Chapter 3: Definition of Startups
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Startups play a vital role in driving innovation, economic growth, and job creation in today's world. To understand how AI is affecting the startup environment, it's essential to define what a startup is and what distinguishes it from other types of businesses. In this chapter, we will explore the definition of startups and the characteristics that set them apart.
 

@@ -1,5 +1,4 @@
-Chapter 1: Overview of the Book
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Welcome to "ChatGPT and Startups: How AI is Affecting the Startup Environment." In this book, we embark on a journey to explore the transformative impact of artificial intelligence, particularly ChatGPT, on the dynamic world of startups. With a focus on practical insights, emerging trends, challenges, and future possibilities, this book serves as a comprehensive guide for entrepreneurs, business leaders, and AI enthusiasts seeking to navigate the evolving startup landscape.
 

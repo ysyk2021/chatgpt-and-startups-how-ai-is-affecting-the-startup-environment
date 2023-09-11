@@ -1,5 +1,4 @@
-Chapter 5: Different Types of Startup Businesses
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Startups come in various forms, each with its own unique characteristics, goals, and challenges. In this chapter, we will explore different types of startup businesses, ranging from tech-driven ventures to social enterprises, and understand how AI is impacting each of them.
 
